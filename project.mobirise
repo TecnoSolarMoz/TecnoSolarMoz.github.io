@@ -493,7 +493,7 @@
           "title": "<b>Contacte-nos</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>Enviar Mensagem</a>",
           "form": {
-            "action": "pilicassolarlda@gmail.com",
+            "action": "Tecnosolarmoz@gmail.com",
             "alerts": {
               "success": "A Tecno Solar Moz responderá ao seu pedido brevemente"
             },
@@ -570,7 +570,7 @@
             }
           },
           "text1": "Endereço<br>\nMoçambique-Nampula<br>\nCidade de Nampula<br>Zambézia<br>",
-          "text2": "<strong>Contactos</strong><br>\nEmail:&nbsp;<br>Telefone: <a href=\"tel:(+258) 844037620\">844037620</a><br>E-mail: <a href=\"mailto:Pilicassolarlda@gmail.com\">Pilicassolarlda@gmail.com</a><a href=\"tel:(+258) 844037620\"><br></a><br><br>Tecno Solar Moz, Lda<br><br><br><br><i>Website criado por: IT Assumane</i>",
+          "text2": "<strong>Contactos</strong><br>\nEmail:&nbsp;<br>Telefone: <a href=\"tel:(+258) 844037620\">844037620</a><br>E-mail: <a href=\"mailto:Tecnosolarmoz@gmail.com\">Tecnosolarmoz@gmail.com</a><a href=\"tel:(+258) 844037620\"><br></a><br><br>Tecno Solar Moz, Lda<br><br><br><br><i>Website criado por: IT Assumane</i>",
           "text3": "<ul></ul>",
           "alias": "purity/components",
           "_tags": [
@@ -600,7 +600,7 @@
             "overlayOpacity": 0.5
           },
           "text": "<b>Siga-nos</b>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>       ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://web.facebook.com/Tecno-Solar-Moz-363727744208949\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>       ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
