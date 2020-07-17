@@ -63,7 +63,7 @@
 }
 #msg-box3-4 .lead P {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 #msg-box3-4 .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
@@ -75,7 +75,7 @@
 }
 #msg-box4-c .lead P {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 #msg-box4-d .mbr-section-title {
   font-family: 'Playfair Display', sans-serif;
@@ -83,11 +83,11 @@
 }
 #msg-box4-d .lead P {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
 }
 #msg-box2-2 H2 {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   text-align: right;
 }
 #form1-0 .mbr-section-title {
@@ -103,5 +103,8 @@
 }
 #contacts1-1 P {
   font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-size: 13px;
+}
+#social-buttons2-7 .mbr-section-title {
+  font-size: 16px;
 }

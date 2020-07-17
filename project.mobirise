@@ -7,14 +7,16 @@
       "styling": {},
       "titlePreset": "Landing Page",
       "nameSelectPreset": "landing",
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#37383e"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "name": "Site-07-0Pilica Solar 4_0035",
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 4,
+    "uniqCompNum": 8,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -120,8 +122,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.1"
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br>Tecno Solar Moz",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i> &nbsp; &nbsp;Inovação, Sustentabilidade e Tecnologia. \n</i><br>\n<br>",
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br><br><br><b>Tecno Solar Moz</b>",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i> &nbsp; &nbsp;I<b>novação, Sustentabilidade e Tecnologia. \n</b></i><br>\n<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
           "alias": "purity/components",
           "_tags": [
@@ -157,7 +159,7 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "18px"
+              "font-size": "16px"
             },
             ".mbr-section-title": {
               "font-family": "'Playfair Display', sans-serif",
@@ -185,7 +187,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": "0.9"
           },
-          "title": "Sobre Nós&nbsp;",
+          "title": "<b>Sobre Nós&nbsp;</b>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>A Tecno Solar moz é uma empresa especializada em soluções tecnológicas para a geração de electricidade de forma limpa e sustentável, através da energia solar fotovoltaica</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">10% OFF</a>",
@@ -201,8 +203,8 @@
           "_params": {
             "autoplay": true,
             "fullScreen": false,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "showBullets": true,
             "bgColor": "#ffffff",
             "slides": [
@@ -303,7 +305,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "22",
+            "imageSize": "30",
             "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -340,8 +342,8 @@
               "size": 0
             }
           },
-          "title": "Nossos Serviços",
-          "text": "<p>•\tConsultoria e projectos para a geração de energia solar;\n</p><p>•\tFornecimento de projecto eléctricos residenciais;\n</p><p>•\tFornecimento de equipamentos eléctricos e electrónicos;\n</p><p>•\tInstalação de sistemas eléctricos e electrónicos residenciais;\n</p><p>•\tManutenção dos sistemas solar e eléctricos entre outros.\n</p><p><br></p>",
+          "title": "<b>Nossos Serviços</b>",
+          "text": "<p>•\tConsultoria e projectos para geração de energia solar;\n</p><p>•\tFornecimento de projecto eléctricos residenciais;\n</p><p>•\tFornecimento de equipamentos eléctricos e electrónicos;\n</p><p>•\tInstalação de sistemas eléctricos e electrónicos residenciais;\n</p><p>•\tManutenção dos sistemas solar e eléctricos entre outros.\n</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -359,7 +361,7 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         },
@@ -372,8 +374,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "5",
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -411,8 +413,8 @@
               "active": true
             }
           },
-          "title": "Nossa Equipe",
-          "text": "<p>Trabalhamos com profissionais especializados na área de electricidade e tecnologias de energia solar</p>",
+          "title": "<b>Nossa Equipe</b>",
+          "text": "<p>Trabalhamos com profissionais especializados na área de electricidade, tecnologias de energia solar e demias áreas de actuação de modo a criar credibilidade e eficiência na execução das actividades para satisfazer os nossos clientes</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -430,7 +432,7 @@
             ".lead P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "18px"
+              "font-size": "16px"
             }
           }
         },
@@ -441,13 +443,13 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fbfbfb",
+            "bgColor": "#f2f2f2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -456,7 +458,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Preencha o formulario abaixo para que nos possa enviar a sua mensagem",
+          "title": "&nbsp; &nbsp;Preencha o formulario abaixo para que nos possa enviar a sua mensagem ou solicitar algum Serviço&nbsp;",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -469,7 +471,7 @@
             "H2": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "18px",
+              "font-size": "16px",
               "text-align": "right"
             }
           }
@@ -478,20 +480,20 @@
           "_params": {
             "showTitle": true,
             "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f2f2f2",
+            "bgColor": "#fbfbfb",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Contacte-nos",
+          "title": "<b>Contacte-nos</b>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning-outline btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-share mbr-iconfont mbr-iconfont-btn\"></span>Enviar Mensagem</a>",
           "form": {
-            "action": "assumanemartinho1@gmail.com",
+            "action": "pilicassolarlda@gmail.com",
             "alerts": {
               "success": "A Tecno Solar Moz responderá ao seu pedido brevemente"
             },
@@ -509,11 +511,11 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Telefone"
+                "customTitle": "Contacto ou Telefone"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Escreva aqui a sua mensagem "
+                "customTitle": "Escreva aqui a sua mensagem ou pedido"
               }
             }
           },
@@ -541,8 +543,8 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -580,7 +582,34 @@
             "P": {
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "font-size": "14px"
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f1c050",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "<b>Siga-nos</b>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>       ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-7",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "16px"
             }
           }
         }
