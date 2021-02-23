@@ -1,2 +1,2 @@
-# TecnoSolarMoz.github.io
+# TecnoSolarMoz.ac.mz
 GitHub Pages
